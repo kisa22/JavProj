@@ -3,5 +3,7 @@ public class CatNim {
     System.out.println(" /\\_/\\  \r\n" + //
         "( o.o ) \r\n" + //
         " > ^ <");
+
+    System.out.println("LUL");
   }
 }
