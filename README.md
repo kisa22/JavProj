@@ -1,4 +1,4 @@
-<h style="allign-item:center;">
+<h>
 <strong>Java Lenguage Project</strong>
 </h>
 
